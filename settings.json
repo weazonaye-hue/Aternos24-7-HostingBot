@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "UnstableFFA-xyz.aternos.me",
     "port": 39535,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
